@@ -1,0 +1,12 @@
+onnxruntime
+numpy
+tensorflow
+pandas
+regex
+os-sys
+argparse
+matplotlib
+seaborn
+subprocess32
+requests
+scikit-learn
